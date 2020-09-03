@@ -1,4 +1,5 @@
 # portfolio
+
 Portfólio do desenvolvedor (Para estudo de Front-end)
 
 ## Tarefas
@@ -6,8 +7,8 @@ Portfólio do desenvolvedor (Para estudo de Front-end)
 O controle das tarefas desse projeto será realizado no GitHub
 
 ## Ícones
-:package: Nova Funcionalidade
-:up: Atualização
-:beetle: Correção de Bug
-:checkered_flag: Release
+- :package: Nova Funcionalidade
+- :up: Atualização
+- :beetle: Correção de Bug
+- :checkered_flag: Release
 
