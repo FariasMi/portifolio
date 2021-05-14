@@ -12,5 +12,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 - :beetle: Correção de Bug
 - :checkered_flag: Release
 
-- Pode verificar o resultado aqui: https://fariasmi.github.io/portifolio/
+Pode verificar o resultado aqui: https://fariasmi.github.io/portifolio/
 
